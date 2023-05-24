@@ -1,0 +1,36 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    min-height: 30vh;
+    border: 1px solid grey;
+    width: 30vw;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.input {
+    height: 25px;
+    border: 2px solid black;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+.add-button {
+    color: #ffffff;
+    background-color: #20784d;
+    padding: 8px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+
+}
+
+.list-container {
+    width: 250px;
+    list-style-type: none;
+}

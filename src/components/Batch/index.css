@@ -1,0 +1,18 @@
+.products {
+    background-color: darkblue;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 8px;
+    width: 150px;
+}
+
+.span {
+    background-color: red;
+    color: #ffffff;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: 10px;
+    border-radius: 2px;
+    font-size: 16px;
+    font-weight: 400;
+}
